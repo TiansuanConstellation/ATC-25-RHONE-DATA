@@ -41,4 +41,4 @@ This dataset is released under the [Creative Commons Attribution 4.0 Internation
 
 If you use this dataset in your work, please cite our paper:
 
-Liying Wang, Qing Li, Yuhan Zhou, Zhaofeng Luo, Donghao Zhang, Shangguang Wang, Xuanzhe Liu, and Chenren Xu. Emulating space computing networks with RHONE. In USENIX Annual Technical Conference, USENIX ATC '25, Boston, MA, USA, 2025. USENIX Association.
+Liying Wang, Qing Li, Yuhan Zhou, Zhaofeng Luo, Donghao Zhang, Shangguang Wang, Xuanzhe Liu, and Chenren Xu. Emulating space computing networks with RHONE. In USENIX Annual Technical Conference, USENIX ATC '25, Boston, MA, USA, 2025. 
